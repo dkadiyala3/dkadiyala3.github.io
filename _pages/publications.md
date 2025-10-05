@@ -5,10 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **[Harvesting idle I/O resources for boosting memory bandwidth]() [_in review_]**  
+_Divya Kiran Kadiyala, Alexandros Daglis._ <br>
+
+
+- **[Enabling Flexible and Composable AI Systems via Memory Disaggregation]() [_in review_]**  
+_Divya Kiran Kadiyala, Lianjie Cao, Puneet Sharma, Samantika Sury, Alexandros Daglis._ <br>
+
+
+- **[COMET: A Comprehensive Cluster Design Methodology for Distributed Deep Learning Training](https://arxiv.org/abs/2211.16648)**  
+_Divya Kiran Kadiyala, Saeed Rashidi, Taekyung Heo, Abhimanyu Rajeshkumar Bambhaniya, Tushar Krishna, Alexandros Daglis._ <br>
+arXiv preprint arXiv:2211.16648, 2022. <br>
+
 - **[Safety Hints for HTM Capacity Abort Mitigation](https://ieeexplore.ieee.org/document/10071113)**  
-_Anirudh Jain*, Divya Kiran Kadiyala*, Alexandros Daglis._ <br>
+_Anirudh Jain<span style="color: #0000ffec;">**\***</span>, Divya Kiran Kadiyala<span style="color: #0000ffec;">**\***</span>, Alexandros Daglis._ <br>
 High-Performance Computer Architecture (**HPCA**), 2023. **_Acceptance rate: 25.0%_** <br>
-\* Equal Contribution <br>
+<span style="color: #0000ffec;">_**\*** Equal Contribution_</span> <br>
 
 - **[Exploring Memory Expansion Designs for Training Mixture-of-Experts Models](https://drive.google.com/file/d/1lgKgVEssrosL5iWJNPapGczY7kPuqjyy/view)**  
 _Taekyung Heo, Saeed Rashidi, Changhai Man, Divya Kiran Kadiyala, William Won, Sudarshan Srinivasan, Midhilesh Elavazhagan, Madhu Kumar, Alexandros Daglis, Tushar Krishna._ <br>
