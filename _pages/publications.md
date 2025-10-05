@@ -5,7 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **[Fast End-to-End Performance Simulation of Accelerated Hardware–Software Stacks](/files/nex.pdf)**   
+- **[Safety Hints for HTM Capacity Abort Mitigation](https://ieeexplore.ieee.org/document/10071113)**  
+_Anirudh Jain*, Divya Kiran Kadiyala*, Alexandros Daglis._ <br>
+High-Performance Computer Architecture (**HPCA**), 2023. **_Acceptance rate: 25.0%_** <br>
+\* Equal Contribution <br>
+
+- **[Exploring Memory Expansion Designs for Training Mixture-of-Experts Models](https://drive.google.com/file/d/1lgKgVEssrosL5iWJNPapGczY7kPuqjyy/view)**  
+_Taekyung Heo, Saeed Rashidi, Changhai Man, Divya Kiran Kadiyala, William Won, Sudarshan Srinivasan, Midhilesh Elavazhagan, Madhu Kumar, Alexandros Daglis, Tushar Krishna._ <br>
+Workshop on Hot Topics in System Infrastructure, (**HotInfra**), June 2023 <br>
+
+- **[Physically Unclonable Functions Using Foundry SRAM Cells](https://ieeexplore.ieee.org/document/8500746)**  
+_Lawrence T. Clark, Sai Bharadwaj Medapuram, Divya Kiran Kadiyala, John Brunhaver._ <br>
+IEEE Transactions on Circuits and Systems I (**TCAS**), 2019. **_Acceptance rate: 30.0%_** <br>
+
+- **[SRAM Circuits for True Random Number Generation Using Intrinsic Bit Instability](https://ieeexplore.ieee.org/document/8374983)**  
+_Lawrence T. Clark, Sai Bharadwaj Medapuram, Divya Kiran Kadiyala._ <br>
+IEEE Transactions on Very Large Scale Integration Systems, (**TVLSI**), 2018. **_Acceptance rate: 37.3%_**<br>
+
+
+
+<!-- - **[Fast End-to-End Performance Simulation of Accelerated Hardware–Software Stacks](/files/nex.pdf)**   
 _Jiacheng Ma, Jonas Kauffman, Emilien Guandalino, Rishabh Iyer, Thomas Bourgeat, George Candea._ <br>
 SOSP 2025. <br>
 [[code]](https://github.com/dslab-epfl/NEX)
@@ -78,4 +97,4 @@ VDAT 2019.  <br>
 - **[Automated Synthesis of Adversarial Workloads for Network Functions](files/castan.pdf)**    
 _Luis Pedrosa, Rishabh Iyer, Arseniy Zaostrovnykh, Jonas Fietz, Katerina Argyraki._  <br>
 SIGCOMM 2018. <br>
-[[slides]](files/castan_slides.pdf) [[talk video]](https://www.youtube.com/watch?v=1BjeaNvmBwQ&t=1571s) [[code]](https://github.com/nal-epfl/castan) [[website]](https://pedrosa.2y.net/Projects/CASTAN)
+[[slides]](files/castan_slides.pdf) [[talk video]](https://www.youtube.com/watch?v=1BjeaNvmBwQ&t=1571s) [[code]](https://github.com/nal-epfl/castan) [[website]](https://pedrosa.2y.net/Projects/CASTAN) -->
