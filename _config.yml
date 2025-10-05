@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Divya Kiran Kadiyala"
 title_separator          : "-"
 name                     : &name "Divya Kiran Kadiyala"
-description              : &description "PhD Candidate, <br> Georgia Tech"
-url                      : "https://dkadiyala3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Assistant Professor, <br> UC Berkeley"
+url                      : https://dkadiyala3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dkadiyala3/dkadiyala3.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Divya Kiran Kadiyala"
+  name             : "Rishabh Iyer"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate, <br> Georgia Tech"
+  bio              : "Assistant Professor, <br> UC Berkeley"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=DA9hBewAAAAJ&hl=en"
-  email            : "dkadiyala3@gatech.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=o-Aoyn0AAAAJ&hl=en"
+  email            : "rishabh.iyer@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dkadiyala3"
+  github           : "rishabh246"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "divya-kiran-kadiyala-2077471a"
+  linkedin         : "rishabh-iyer-990397199"
   orcid            : #"https://orcid.org/0000-0001-8384-8813"
   pinterest        :
   soundcloud       :
