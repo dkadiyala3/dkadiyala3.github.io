@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech advised by [Dr. Alexandros Daglis](https://faculty.cc.gatech.edu/~adaglis3/#students), Associate Professor, School of Computer Science. My research interests are in Computer Architecture, Memory Systems, Distributed AI/ML Systems, CXL Technologies, and parallel & distributed systems.
+I am a PhD student in the [Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech advised by [Dr. Alexandros Daglis](https://faculty.cc.gatech.edu/~adaglis3/#students), Associate Professor, School of Computer Science. My research interests are in Computer Architecture, Memory System Architecture, Distributed AI/ML Systems, CXL Technologies, and parallel & distributed systems.
 
 
 Prior to joining PhD, I did my Masters in Electrical Engineering from Arizona State University, Tempe and worked full-time as Sr. Applications Engineer at Cadence Design Systems, San Jose, CA.
