@@ -1,0 +1,106 @@
+/* ==========================================================================
+   Custom Sidebar Overrides  – v10 (mobile simplification)
+   * Mobile (< $large): avatar centered, bio below, single follow button centered
+   * Desktop (≥ $large): layout from v7 restored — avatar + bio centered, URL list
+     indented 3.5rem, follow button hidden
+   ========================================================================== */
+
+   $avatar-size: 230px;
+   $right-sidebar-width-narrow: 320px !default;
+   $right-sidebar-width:        360px !default;
+   $sidebar-gutter:             1rem;
+   
+   /* Sidebar container (unchanged) */
+   .sidebar {
+     -webkit-transform: translate3d(0,0,0);
+             transform: translate3d(0,0,0);
+     @include clearfix();
+     margin-bottom: 1em;
+     @include breakpoint($large){ @include span(2 of 12); }
+     h2,h3,h4,h5,h6{ margin-bottom:0; font-family:$sans-serif-narrow; }
+     h3,h4{ font-size:$type-size-5; }
+     p,li{ font-family:$sans-serif; font-size:$type-size-6; line-height:1.5; }
+     img{ width:100%; }
+   }
+   
+   /* Right‑sidebar wrapper widths */
+   .sidebar__right {
+     margin-bottom:1em;
+     @include breakpoint($large){ position:relative; float:right; width:$right-sidebar-width-narrow; margin-left:span(0.5 of 12); }
+     @include breakpoint($x-large){ width:$right-sidebar-width; }
+   }
+   
+   /* --------------------------- MOBILE FIRST (< $large) -------------------- */
+   .author__avatar{
+     display:block;
+     width:$avatar-size;
+     height:$avatar-size;
+     margin:0 auto 1rem;      // center avatar
+     img{ width:100%; height:auto; border-radius:30%; }
+   }
+   
+   .author__content{
+     text-align:center;
+     margin-top:2em;            // extra space below avatar on mobile
+     margin-bottom:1rem;
+     line-height:1;
+     padding:0;
+   
+     @include breakpoint($large){
+       width:$avatar-size;
+       margin:0 auto 0.75rem;   // desktop layout unchanged
+       text-align:center;
+     }
+   }
+   
+   /* single follow button shown on mobile */
+   .author__urls-wrapper{
+     text-align:center;
+     margin-bottom:1rem;
+     button{ display:inline-block; }
+   
+     @include breakpoint($large){
+       button{ display:none; }       // hide button on desktop
+     }
+   }
+   
+   /* hide full URL list on mobile */
+   .author__urls{
+     display:none;
+   
+     @include breakpoint($large){   // ------------------- DESKTOP ------------------
+       display:block;
+       padding-left:3.5rem;         // restore original indent
+       text-align:left !important;
+     }
+   
+     a{ color:#000 !important; text-decoration:none; font-size:12px !important; &:hover{ text-decoration:underline; } }
+   }
+   
+   /* Author name and bio */
+   .sidebar .author__name{
+     font-family:$sans-serif;
+     font-size:$type-size-4;
+     font-weight:700;
+     line-height:1.2;
+     margin:0.25rem 0;
+     text-align:center;
+   }
+   
+   .author__bio{
+     font-size:14.5px !important;
+     line-height:1.3;
+     margin:0;
+     text-align:center;
+   }
+   
+   /* Desktop adjustments */
+   @include breakpoint($large){
+     .author__avatar{ margin:0 auto 2rem; }
+     .author__content{
+       width:$avatar-size;
+       margin:0 auto 0.75rem;
+       text-align:center;
+     }
+   }
+   
