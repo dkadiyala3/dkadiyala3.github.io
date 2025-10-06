@@ -27,7 +27,7 @@ Prior to joining PhD, I did my Masters in Electrical Engineering from Arizona St
   - I'm currently seeking full-time opportunities to drive innovation in next-generation memory and distributed system architectures to accelerate parallel and memory bandwidth intensive applications. If you are interested in a collaboration, please reach out to me via email: dkadiyala3@gatech.edu
 -->
 
-<div style="border-radius: 12px; padding: 0.75em; margin-top: 0.5em; margin-bottom: 0.5em; background: #FFF5EA; border: 1px solid black; font-size: 0.875em;"> I am currently seeking <strong>full-time opportunities</strong> to advance innovation in next-generation memory and computer system architectures. If my profile aligns with your requirements or areas of interest, please feel free to contact me via <a href="mailto:dkadiyala3@gatech.edu">email</a> or <a href="https://www.linkedin.com/in/divya-kiran-kadiyala-2077471a/">linkedIn</a></div>
+<div style="border-radius: 12px; padding: 0.75em; margin-top: 0.5em; margin-bottom: 0.5em; background: #FFF5EA; border: 1px solid black; font-size: 0.875em;"> I am currently seeking <strong>full-time opportunities</strong> to advance innovation in next-generation memory and computer system architectures. If my profile aligns with your requirements or areas of interest, please feel free to contact me via <a href="mailto:dkadiyala3@gatech.edu">email</a> or <a href="https://www.linkedin.com/in/divyakirankadiyala/">linkedIn</a></div>
 
 >### Thesis Topic: Memory system optimizations for parallel and bandwidth-intensive applications
 >
