@@ -11,7 +11,7 @@ I am a PhD candidate in the school of [Electrical and Computer Engineering](http
 
 My research is focused on developing tailored memory system architectures to enhance the performance of parallel, scientific, and deep learning AI/ML workloads in resource constrained and bandwidth-intensive environments. My research draws on insights from computer architecture, memory system design, distributed AI/ML systems, and CXL technologies. 
 
-Prior to joining PhD, I did my Masters in Electrical Engineering from Arizona State University, Tempe and worked full-time as Sr. Applications Engineer at Cadence Design Systems, San Jose, CA. For more details please refer to my [<u>**CV**</u>](files/CV-DivyaKiran_Kadiyala.pdf).
+Prior to joining PhD, I did my Masters in Electrical Engineering from Arizona State University, Tempe and worked full-time as Sr. Applications Engineer at Cadence Design Systems, San Jose, CA. For more details please refer to my [**<u>CV</u>**](files/CV-DivyaKiran_Kadiyala.pdf).
 
 
 <!---
