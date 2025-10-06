@@ -21,6 +21,9 @@ _**Divya Kiran Kadiyala**, Alexandros Daglis._ <br>
 - **[Enabling Flexible and Composable AI Systems via Memory Disaggregation]() [_in review_]**  
 _**Divya Kiran Kadiyala**, Lianjie Cao, Puneet Sharma, Samantika Sury, Alexandros Daglis._ <br>
 
+- **[Geode: A Zero-shot Geospatial Question-Answering Agent with Explicit Reasoning and Precise Spatio-Temporal Retrieval](https://sites.google.com/view/evgaisca24)**  
+_Devashish Vikas Gupta, Azeez Syed Ali Ishaqui, **Divya Kiran Kadiyala**._ <br>
+ISCA Workshop on Emerging Vision and Graphics System and Architectures, (**EVGA**), June 2024 <br>
 
 - **[COMET: A Comprehensive Cluster Design Methodology for Distributed Deep Learning Training](https://arxiv.org/abs/2211.16648)**  
 _**Divya Kiran Kadiyala**, Saeed Rashidi, Taekyung Heo, Abhimanyu Rajeshkumar Bambhaniya, Tushar Krishna, Alexandros Daglis._ <br>
@@ -31,7 +34,7 @@ _Anirudh Jain<span style="color: #0000ffec;">**\***</span>, **Divya Kiran Kadiya
 High-Performance Computer Architecture (**HPCA**), 2023. **_Acceptance rate: 25.0%_** <br>
 <span style="color: #0000ffec;">_**\*** Equal Contribution_</span> <br>
 
-- **[Exploring Memory Expansion Designs for Training Mixture-of-Experts Models](https://drive.google.com/file/d/1lgKgVEssrosL5iWJNPapGczY7kPuqjyy/view)**  
+- **[Exploring Memory Expansion Designs for Training Mixture-of-Experts Models](https://hotinfra23.github.io/papers/hotinfra23-paper4.pdf)**  
 _Taekyung Heo, Saeed Rashidi, Changhai Man, **Divya Kiran Kadiyala**, William Won, Sudarshan Srinivasan, Midhilesh Elavazhagan, Madhu Kumar, Alexandros Daglis, Tushar Krishna._ <br>
 Workshop on Hot Topics in System Infrastructure, (**HotInfra**), June 2023 <br>
 
