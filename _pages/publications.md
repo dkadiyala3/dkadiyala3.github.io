@@ -6,32 +6,32 @@ author_profile: true
 ---
 
 - **[Harvesting idle I/O resources for boosting memory bandwidth]() [_in review_]**  
-_Divya Kiran Kadiyala, Alexandros Daglis._ <br>
+_**Divya Kiran Kadiyala**, Alexandros Daglis._ <br>
 
 
 - **[Enabling Flexible and Composable AI Systems via Memory Disaggregation]() [_in review_]**  
-_Divya Kiran Kadiyala, Lianjie Cao, Puneet Sharma, Samantika Sury, Alexandros Daglis._ <br>
+_**Divya Kiran Kadiyala**, Lianjie Cao, Puneet Sharma, Samantika Sury, Alexandros Daglis._ <br>
 
 
 - **[COMET: A Comprehensive Cluster Design Methodology for Distributed Deep Learning Training](https://arxiv.org/abs/2211.16648)**  
-_Divya Kiran Kadiyala, Saeed Rashidi, Taekyung Heo, Abhimanyu Rajeshkumar Bambhaniya, Tushar Krishna, Alexandros Daglis._ <br>
+_**Divya Kiran Kadiyala**, Saeed Rashidi, Taekyung Heo, Abhimanyu Rajeshkumar Bambhaniya, Tushar Krishna, Alexandros Daglis._ <br>
 arXiv preprint arXiv:2211.16648, 2022. <br>
 
 - **[Safety Hints for HTM Capacity Abort Mitigation](https://ieeexplore.ieee.org/document/10071113)**  
-_Anirudh Jain<span style="color: #0000ffec;">**\***</span>, Divya Kiran Kadiyala<span style="color: #0000ffec;">**\***</span>, Alexandros Daglis._ <br>
+_Anirudh Jain<span style="color: #0000ffec;">**\***</span>, **Divya Kiran Kadiyala**<span style="color: #0000ffec;">**\***</span>, Alexandros Daglis._ <br>
 High-Performance Computer Architecture (**HPCA**), 2023. **_Acceptance rate: 25.0%_** <br>
 <span style="color: #0000ffec;">_**\*** Equal Contribution_</span> <br>
 
 - **[Exploring Memory Expansion Designs for Training Mixture-of-Experts Models](https://drive.google.com/file/d/1lgKgVEssrosL5iWJNPapGczY7kPuqjyy/view)**  
-_Taekyung Heo, Saeed Rashidi, Changhai Man, Divya Kiran Kadiyala, William Won, Sudarshan Srinivasan, Midhilesh Elavazhagan, Madhu Kumar, Alexandros Daglis, Tushar Krishna._ <br>
+_Taekyung Heo, Saeed Rashidi, Changhai Man, **Divya Kiran Kadiyala**, William Won, Sudarshan Srinivasan, Midhilesh Elavazhagan, Madhu Kumar, Alexandros Daglis, Tushar Krishna._ <br>
 Workshop on Hot Topics in System Infrastructure, (**HotInfra**), June 2023 <br>
 
 - **[Physically Unclonable Functions Using Foundry SRAM Cells](https://ieeexplore.ieee.org/document/8500746)**  
-_Lawrence T. Clark, Sai Bharadwaj Medapuram, Divya Kiran Kadiyala, John Brunhaver._ <br>
+_Lawrence T. Clark, Sai Bharadwaj Medapuram, **Divya Kiran Kadiyala**, John Brunhaver._ <br>
 IEEE Transactions on Circuits and Systems I (**TCAS**), 2019. **_Acceptance rate: 30.0%_** <br>
 
 - **[SRAM Circuits for True Random Number Generation Using Intrinsic Bit Instability](https://ieeexplore.ieee.org/document/8374983)**  
-_Lawrence T. Clark, Sai Bharadwaj Medapuram, Divya Kiran Kadiyala._ <br>
+_Lawrence T. Clark, Sai Bharadwaj Medapuram, **Divya Kiran Kadiyala**._ <br>
 IEEE Transactions on Very Large Scale Integration Systems, (**TVLSI**), 2018. **_Acceptance rate: 37.3%_**<br>
 
 
