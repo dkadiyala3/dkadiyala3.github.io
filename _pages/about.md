@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the school of [Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech advised by [Dr. Alexandros Daglis](https://faculty.cc.gatech.edu/~adaglis3/#students), Associate Professor, School of Computer Science. My research interests are in Computer Architecture, Memory System Architecture, Distributed AI/ML Systems, CXL Technologies, and parallel & distributed systems. 
+I am a PhD candidate in the school of [Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech advised by [Dr. Alexandros Daglis](https://faculty.cc.gatech.edu/~adaglis3/#students), Associate Professor, School of Computer Science.  My research is focused on developing tailored memory system architectures to enhance the performance of parallel, scientific, and deep learning AI/ML workloads in resourceconstrained and bandwidth-intensive environments. My research draws on insights from computer architecture, memory system design, distributed AI/ML systems, and CXL technologies. 
 
 Prior to joining PhD, I did my Masters in Electrical Engineering from Arizona State University, Tempe and worked full-time as Sr. Applications Engineer at Cadence Design Systems, San Jose, CA. For more details please refer to my [<u>CV</u>](files/CV-DivyaKiran_Kadiyala.pdf).
 
@@ -16,7 +16,7 @@ Prior to joining PhD, I did my Masters in Electrical Engineering from Arizona St
   - I'm currently seeking full-time opportunities to drive innovation in next-generation memory and distributed system architectures to accelerate parallel and memory bandwidth intensive applications. If you are interested in a collaboration, please reach out to me via email: dkadiyala3@gatech.edu
 -->
 
-<div style="border-radius: 12px; padding: 0.75em; margin-top: 0.5em; margin-bottom: 0.5em; background: #FFF5EA; border: 1px solid black; font-size: 0.875em;"> I am currently seeking <strong>full-time opportunities</strong> to advance innovation in next-generation memory system and computer system architectures. If my profile aligns with your requirements or areas of interest, please feel free to contact me via <a href="mailto:dkadiyala3@gatech.edu">email</a> or <a href="https://www.linkedin.com/in/divya-kiran-kadiyala-2077471a/">linkedIn</a></div>
+<div style="border-radius: 12px; padding: 0.75em; margin-top: 0.5em; margin-bottom: 0.5em; background: #FFF5EA; border: 1px solid black; font-size: 0.875em;"> I am currently seeking <strong>full-time opportunities</strong> to advance innovation in next-generation memory and computer system architectures. If my profile aligns with your requirements or areas of interest, please feel free to contact me via <a href="mailto:dkadiyala3@gatech.edu">email</a> or <a href="https://www.linkedin.com/in/divya-kiran-kadiyala-2077471a/">linkedIn</a></div>
 
 >### Thesis Topic: Memory system optimizations for parallel and bandwidth-intensive applications
 >
