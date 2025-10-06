@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the school of [Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech advised by [Dr. Alexandros Daglis](https://faculty.cc.gatech.edu/~adaglis3/#students), Associate Professor, School of Computer Science.  My research is focused on developing tailored memory system architectures to enhance the performance of parallel, scientific, and deep learning AI/ML workloads in resourceconstrained and bandwidth-intensive environments. My research draws on insights from computer architecture, memory system design, distributed AI/ML systems, and CXL technologies. 
+I am a PhD candidate in the school of [Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech advised by [Dr. Alexandros Daglis](https://faculty.cc.gatech.edu/~adaglis3/#students), Associate Professor, School of Computer Science.  My research is focused on developing tailored memory system architectures to enhance the performance of parallel, scientific, and deep learning AI/ML workloads in resource constrained and bandwidth-intensive environments. My research draws on insights from computer architecture, memory system design, distributed AI/ML systems, and CXL technologies. 
 
 Prior to joining PhD, I did my Masters in Electrical Engineering from Arizona State University, Tempe and worked full-time as Sr. Applications Engineer at Cadence Design Systems, San Jose, CA. For more details please refer to my [<u>CV</u>](files/CV-DivyaKiran_Kadiyala.pdf).
 
