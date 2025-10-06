@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M9VN5LC2X6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M9VN5LC2X6');
+</script>  
 
 - **[Harvesting idle I/O resources for boosting memory bandwidth]() [_in review_]**  
 _**Divya Kiran Kadiyala**, Alexandros Daglis._ <br>

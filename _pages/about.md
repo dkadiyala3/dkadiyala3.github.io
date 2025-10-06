@@ -6,6 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M9VN5LC2X6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M9VN5LC2X6');
+</script>  
 
 I am a PhD candidate in the school of [Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech advised by [Dr. Alexandros Daglis](https://faculty.cc.gatech.edu/~adaglis3/#students), Associate Professor, School of Computer Science.  
 
