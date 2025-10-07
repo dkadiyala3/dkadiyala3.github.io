@@ -14,11 +14,11 @@ author_profile: true
   gtag('config', 'G-M9VN5LC2X6');
 </script>  
 
-- **[Harvesting idle I/O resources for boosting memory bandwidth]() [_in review_]**  
+- **[Harvesting idle I/O resources for boosting memory bandwidth]() [_under review_]**  
 _**Divya Kiran Kadiyala**, Alexandros Daglis._ <br>
 
 
-- **[Enabling Flexible and Composable AI Systems via Memory Disaggregation]() [_in review_]**  
+- **[Enabling Flexible and Composable AI Systems via Memory Disaggregation]() [_under review_]**  
 _**Divya Kiran Kadiyala**, Lianjie Cao, Puneet Sharma, Samantika Sury, Alexandros Daglis._ <br>
 
 - **[Geode: A Zero-shot Geospatial Question-Answering Agent with Explicit Reasoning and Precise Spatio-Temporal Retrieval](https://sites.google.com/view/evgaisca24)**  

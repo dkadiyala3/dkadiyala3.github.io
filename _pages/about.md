@@ -32,7 +32,7 @@ Prior to joining PhD, I did my Masters in Electrical Engineering from Arizona St
 >### Thesis Topic: Memory system optimizations for parallel and bandwidth-intensive applications
 >
 ><div style="text-align: justify; font-size: 0.875em;">
->The growing performance and bandwidth demands of modern datacenter and HPC workloads are driving innovation in memory system design. My research adapts a holistic approach to optimizing memory systems by jointly considering workload-specific characteristics and underlying hardware capabilities. These efforts demonstrate how tailored memory system designs can substantially enhance the performance of parallel, scientific, and deep learning AI applications in resource-constrained and bandwidth-intensive environments.
+>The growing performance and bandwidth demands of modern datacenter and HPC workloads are driving innovation in memory system design. My research adopts a holistic approach to optimizing memory systems by jointly considering workload-specific characteristics and underlying hardware capabilities. These innovations demonstrate how tailored memory system designs can substantially enhance the performance of parallel, scientific, and deep learning AI applications in resource-constrained and bandwidth-intensive environments.
 ></div>
 
 <!-- 
