@@ -29,10 +29,10 @@ Prior to joining PhD, I did my Masters in Electrical Engineering from Arizona St
 
 <div style="border-radius: 12px; padding: 0.75em; margin-top: 0.5em; margin-bottom: 0.5em; background: #FFF5EA; border: 1px solid black; font-size: 0.875em;"> I am currently seeking <strong>full-time opportunities</strong> to advance innovation in next-generation memory and computer system architectures. If my profile aligns with your requirements or areas of interest, please feel free to contact me via <a href="mailto:dkadiyala3@gatech.edu">email</a> or <a href="https://www.linkedin.com/in/divyakirankadiyala/">linkedIn</a></div>
 
->### Thesis Topic: Memory system optimizations for parallel and bandwidth-intensive applications
->
+>### Thesis Topic: Memory system optimizations for parallel and bandwidth-intensive workloads
+> ![Overarching Figure](images/SURGE-modified_thesis_intro.svg)
 ><div style="text-align: justify; font-size: 0.875em;">
->The growing performance and bandwidth demands of modern datacenter and HPC workloads are driving innovation in memory system design. My research adopts a holistic approach to optimizing memory systems by jointly considering workload-specific characteristics and underlying hardware capabilities. These innovations demonstrate how tailored memory system designs can substantially enhance the performance of parallel, scientific, and deep learning AI applications in resource-constrained and bandwidth-intensive environments.
+>The growing performance and bandwidth demands of modern datacenter and HPC workloads are driving innovation in memory system design. My research adopts a holistic approach to optimizing memory systems across multiple levels of the system hierarchy—chip, server, and cluster—through architectural techniques integrated with system software. By jointly considering workload-specific characteristics and underlying hardware capabilities, these innovations demonstrate how tailored memory system designs can significantly enhance the performance of parallel, scientific, and AI/ML workloads in resource-constrained and bandwidth-intensive environments..
 ></div>
 
 <!-- 
