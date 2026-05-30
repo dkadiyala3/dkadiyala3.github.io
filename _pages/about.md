@@ -16,18 +16,22 @@ redirect_from:
   gtag('config', 'G-M9VN5LC2X6');
 </script>  
 
-I am a PhD candidate in the school of [Electrical and Computer Engineering](https://ece.gatech.edu/) at Georgia Tech advised by [Dr. Alexandros Daglis](https://faculty.cc.gatech.edu/~adaglis3/#students), Associate Professor, School of Computer Science.  
+I am an AI Performance Architect at Hewlett Packard Enterprise (HPE), where I develop tailored system architectures for parallel, scientific, and deep learning AI/ML workloads in High Performance Computing environments. My work spans computer architecture, memory system design, distributed AI/ML systems, and CXL-based technologies, with a focus on accelerating memory bandwidth-intensive applications in resource-constrained environments.
 
-My research is focused on developing tailored memory system architectures to enhance the performance of parallel, scientific, and deep learning AI/ML workloads in resource constrained and memory bandwidth-intensive environments. My research draws on insights from computer architecture, memory system design, distributed AI/ML systems, and CXL technologies. 
+Prior to joining HPE, I completed my PhD at [Georgia Institute of Technology, Atlanta](https://ece.gatech.edu/), advised by [Dr. Alexandros Daglis](https://faculty.cc.gatech.edu/~adaglis3/#students), Associate Professor in the School of Computer Science. My doctoral research focused on designing and developing tailored memory system optimizations to enhance the performance of parallel, scientific, and deep learning AI/ML workloads, drawing on insights from computer architecture, memory system design, distributed AI/ML systems, and CXL technologies.
 
-Prior to joining PhD, I did my Masters in Electrical Engineering from Arizona State University, Tempe and worked full-time as Sr. Applications Engineer at Cadence Design Systems, San Jose, CA. For more details please refer to my [**<u>CV</u>**](/files/CV-DivyaKiran_Kadiyala.pdf).
+Earlier, I earned my Master's in Electrical Engineering from Arizona State University, Tempe, and worked as a Sr. Applications Engineer at Cadence Design Systems, San Jose, CA. For more details, please refer to my [**<u>CV</u>**](/files/CV-DivyaKiran_Kadiyala.pdf).
 
 
 <!---
   - I'm currently seeking full-time opportunities to drive innovation in next-generation memory and distributed system architectures to accelerate parallel and memory bandwidth intensive applications. If you are interested in a collaboration, please reach out to me via email: dkadiyala3@gatech.edu
 -->
 
+<div style="border-radius: 12px; padding: 0.75em; margin-top: 0.5em; margin-bottom: 0.5em; background: #FFF5EA; border: 1px solid black; font-size: 0.875em;">I am always open to <strong>opportunities and collaborations</strong> where I can apply my academic expertise and industry experience to drive innovation in next-generation memory and computer system architectures. If my profile aligns with your interests, please feel free to reach out via <a href="mailto:dkadiyala3@gatech.edu">email</a> or <a href="https://www.linkedin.com/in/divyakirankadiyala/">LinkedIn</a>.</div>
+
+<!---
 <div style="border-radius: 12px; padding: 0.75em; margin-top: 0.5em; margin-bottom: 0.5em; background: #FFF5EA; border: 1px solid black; font-size: 0.875em;"> I am currently seeking <strong>full-time opportunities</strong> to advance innovation in next-generation memory and computer system architectures. If my profile aligns with your requirements or areas of interest, please feel free to contact me via <a href="mailto:dkadiyala3@gatech.edu">email</a> or <a href="https://www.linkedin.com/in/divyakirankadiyala/">linkedIn</a></div>
+-->
 
 >### Thesis Topic: Memory system optimizations for parallel and bandwidth-intensive workloads
 > ![Overarching Figure](images/SURGE-modified_thesis_intro.svg)
