@@ -24,7 +24,8 @@ main:
 #    url: /year-archive/
     
  - title: "CV"
-   url: /files/Latest-CV-DivyaKiran_Kadiyala.pdf
+   url: /files/CV-DivyaKiran_Kadiyala.pdf
+   #url: /files/Latest-CV-DivyaKiran_Kadiyala.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
