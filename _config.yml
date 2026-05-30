@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Divya Kiran Kadiyala"
 title_separator          : "-"
 name                     : &name "Divya Kiran Kadiyala"
-description              : &description "PhD Candidate, <br> Georgia Tech"
+description              : &description "AI Performance Architect, <br> Hewlett Packard Enterprise"
 url                      : https://dkadiyala3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dkadiyala3/dkadiyala3.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Divya Kiran Kadiyala"
   avatar           : "Montreal-subway.jpg" #"divyakiran.png" #"Divya-Kiran-Kadiyala.jpg"
-  bio              : "PhD Candidate, <br> Georgia Institute of Technology"
-  employer         : #"Georgia Institute of Technology, Atlanta"
+  bio              : "AI Performance Architect, <br> Hewlett Packard Enterprise"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=DA9hBewAAAAJ&hl=en"
-  email            : "dkadiyala3@gatech.edu"
+  email            : "kadiyala@hpe.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
